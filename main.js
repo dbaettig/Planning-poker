@@ -35,7 +35,7 @@ function addCard(e) {
 
 //--- Function for reveal state --//
 function revealCard() {
-    card.style.color = 'black';
+    $('#selection .card').css({ "color": "black" });
     reset.id = 'reset';
     reset.innerText = 'reset';
     selection.appendChild(reset)
