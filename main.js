@@ -27,6 +27,7 @@ function displayCards() {
 function addCard(e) {
     const selection = document.getElementById('selection');
     selection.appendChild(e.target);
+    e.target.id = "chosenCard";
     reveal.id = "reveal";
     reveal.innerText = "reveal";
     selection.appendChild(reveal);
@@ -35,7 +36,7 @@ function addCard(e) {
 
 //--- Function for reveal state --//
 function revealCard() {
-    $('#selection .card').css({ "color": "black" });
+    document.getElementById("chosenCard").style.color = "black";
     reset.id = 'reset';
     reset.innerText = 'reset';
     selection.appendChild(reset)
