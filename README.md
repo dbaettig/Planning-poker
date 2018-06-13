@@ -11,5 +11,5 @@ SASS är ett självklart val för mig när jag arbetar responsivt i detta fall h
 Vid mer tid hade jag kollat mer på varför siffrorna inte är centrerade i min mobil i jämförelse med direkt i browsern i mobilläget. Och lagt lite extra på animationer och effekter annars är jag rätt nöjd.
 
 
-Jag har valt att ge den en "chas feeling" i form av en clean och tydlig design med en touch av mig själv och lite sommar!
+Jag har valt att ge den en "chas feeling" i form av en clean och tydlig design med en touch av casino, mig själv och lite sommar!
 
