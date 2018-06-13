@@ -18,8 +18,8 @@ h1{
 }
 
 button{
-    height:150px;
-    width:100px;
+    height:160px;
+    width:110px;
     margin:5px;
     border:none;
     border-style:none;
@@ -27,8 +27,7 @@ button{
     background-color: whitesmoke;
     outline:none;
     cursor:pointer;
-    font-family: "Baskerville";
-    font-weight: bold;
+    font-family: "abril fatface";
     font-size:2em;
     padding:0px auto;
   
@@ -57,7 +56,11 @@ button{
     font-size:1.5em;
     text-align:center;
 }
-
+#reveal:focus{
+    background-color:#DB2E32;
+    color: #A3E0E5;
+    border:none;
+}
 
 #selection .card{
     background: url(../images/watermelon.png);
