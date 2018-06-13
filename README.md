@@ -5,8 +5,8 @@
 [git repo](https://github.com/dbaettig/Planning-poker/) 
 
 ## Tekniker:
-* Vanilla Javascript
-* SASS
+- Vanilla Javascript
+- SASS
 
 Jag har valt att arbeta så avskalat som möjligt då själva appen inte är så omfattande eller ska behöva kräva så mycket av användaren därför har jag valt att jobba i vanilla JS så den inte blir så tung.
 
