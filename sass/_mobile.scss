@@ -27,9 +27,9 @@ button{
     background-color: whitesmoke;
     outline:none;
     cursor:pointer;
-    font-family: "abril fatface";
+    font-family: 'Abril Fatface', cursive;
     font-size:2em;
-    padding:0px auto;
+    padding:0px;
   
 }
 #cardDeck{
@@ -56,6 +56,7 @@ button{
     font-size:1.5em;
     text-align:center;
 }
+
 #reveal:focus{
     background-color:#DB2E32;
     color: #A3E0E5;
