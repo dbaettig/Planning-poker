@@ -1,5 +1,8 @@
 # Planning-poker
 
+[github pages](https://dbaettig.github.io/Planning-poker/) 
+[git repo](https://github.com/dbaettig/Planning-poker/) 
+
 ## Tekniker:
 - Vanilla Javascript
 - SASS
