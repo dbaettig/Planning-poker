@@ -14,6 +14,7 @@ const allCards = [
 displayCards();
 function displayCards() {
     let cards = "";
+
     for (card of allCards) {
         cards += `
     <button class="card">${card}</button>
@@ -37,6 +38,7 @@ function addCard(e) {
 //--- Function for reveal state --//
 function revealCard() {
     document.getElementById("chosenCard").style.color = "black";
+    document.getElementById("chosenCard").style.background = "whitesmoke";
     reset.id = 'reset';
     reset.innerText = 'reset';
     selection.appendChild(reset)
